@@ -1,0 +1,11 @@
+Una variable es una forma de asociar y guardar un valor a una especie de palabra clave. 
+De ahi en adelante caba vez que pongamos esa palabra, vamos a ver ese valor.
+
+El string es un texto que va entre comillas y va a ser mostrado tal cual se escribió
+
+Las funciones sirven para combinar variables, para hacer calculos o para hacer otras cosas con ellas.
+
+La declaracion "return" es el contenido final que nos devuelve la funcion. 
+Es los unico que podemos fuera de la funcion. 
+
+Un valor booleano es el que solo puede tener dos opciones: verdadero o falso.
