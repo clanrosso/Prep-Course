@@ -1,0 +1,10 @@
+El bucle for sirve para repetir una sentencia una y otra vez, 
+ hasta que se cumpla alguna condicion que lo frene.
+
+ && es un operador logico que significa "y", y que nos devolverá verdadero si ambas expresiones son true.
+
+ || es un operador logico que significa "o", y que nos devolverá verdadero si alguna de las expresiones es true.  
+
+ ! es un operador logico que devuelve el valor booleano opuesto a la expresion dada.
+
+ 
