@@ -1,0 +1,9 @@
+Los objetos son contenedores que tienen mucha informacion sobre una sola cosa.
+
+Una propiedad es cada elemento dentro de un objeto.
+
+Se llama metodo a las funciones que estan adentro de los objetos.
+
+El bucle for... in sirve para iterar cada elemento dentro del objeto.
+
+Las notaciones de puntos y de corchetes sirven para agregar valores al objeto o para acceder a ellos.
